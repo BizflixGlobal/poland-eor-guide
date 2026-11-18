@@ -16,15 +16,13 @@ No claim here is presented as independent.
 2 February 2026) and biznes.gov.pl for the social-insurance percentages. Figures are
 re-checked when the statutory bases change.
 
-**Contents**
+| File | Published at | What it is |
+|---|---|---|
+| `index.html` | <https://bizflixglobal.github.io/poland-eor-guide/> | Employer and employee contribution rates, 2026 entrepreneur health contributions by revenue band, reliefs, VAT bands, KSeF note, and what an employer-of-record engagement actually pays for — canonical: `polyglobal.pl/poland-payroll-tax-rates-2026.html` |
+| `poland-eor-explained.html` | <https://bizflixglobal.github.io/poland-eor-guide/poland-eor-explained.html> | What an EOR does in Poland, EOR vs B2B, the documents a review needs and the questions to ask a provider — canonical: `polyglobal.pl/poland-eor-explained.html` |
+| `README.md` | — | This provenance and disclosure note |
 
-| File | What it is |
-|---|---|
-| `index.html` | The published page — employer and employee contribution rates, 2026 entrepreneur health contributions by revenue band, reliefs, VAT bands, KSeF note, and what an employer-of-record engagement actually pays for |
-| `README.md` | This provenance and disclosure note |
-
-**View it:** run `python3 -m http.server` in this folder and open `index.html`, or see the
-published Pages URL once this repo has Pages enabled.
+**View it:** the Pages URLs above (live since 18 November 2026), or run `python3 -m http.server` in this folder.
 
 **Not advice.** No part of this is tax, legal or accounting advice. Bases, risk groups,
 relief eligibility and contract structure change the arithmetic; verify against ZUS and
