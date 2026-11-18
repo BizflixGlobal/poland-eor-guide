@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://bizflixglobal.github.io/poland-eor-guide/sitemap.xml
